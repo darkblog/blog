@@ -2,7 +2,6 @@
   <defs>
     <!-- فراخوانی فونت وزیر از گیت‌هاب برای نمایش صحیح -->
     <style type="text/css">
-      @import url('https://cdn.jsdelivr.net');
       .logotype {
         font-family: 'Vazirmatn', sans-serif;
         font-weight: 700;
